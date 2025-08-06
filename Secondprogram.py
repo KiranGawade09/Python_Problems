@@ -22,3 +22,4 @@ nums = list(map(int, input("Enter the numbers separated by space (e.g., 1 2 1): 
 # Output
 print("Concatenated array:", getConcatenation(nums))
     a=["joe","kiran","rahul"]
+    #hi check
